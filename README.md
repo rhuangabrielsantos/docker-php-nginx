@@ -1,4 +1,4 @@
-# php-nginx
+# docker-php-nginx
 
 ## Description
 
